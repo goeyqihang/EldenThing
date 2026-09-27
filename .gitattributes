@@ -1,0 +1,10 @@
+# Normalise line endings in the repository
+* text=auto
+
+# The Maven Wrapper scripts must keep the line endings of their platform
+mvnw text eol=lf
+*.cmd text eol=crlf
+
+*.png binary
+*.pdf binary
+*.jar binary

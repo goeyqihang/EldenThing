@@ -1,0 +1,22 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse / VS Code
+bin/
+.classpath
+.project
+.settings/
+.vscode/
+
+# Compiled classes
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
